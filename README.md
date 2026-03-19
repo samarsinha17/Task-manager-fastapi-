@@ -143,7 +143,7 @@ http://localhost:3000
 
 ## Author
 
-Sam
+Samar Sinha
 Backend Developer (Python / FastAPI)
 
 GitHub:

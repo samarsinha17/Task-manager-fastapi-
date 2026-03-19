@@ -146,7 +146,7 @@ http://localhost:3000
 ### Application UI
 This shows the frontend interface where users can create, update, and delete tasks.
 
-![App UI](Screenshot 2026-03-19 212359.png)
+![App UI](app-ui.png)
 
 ### Backend Server Running
 FastAPI backend running locally using Uvicorn.
